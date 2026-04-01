@@ -285,7 +285,7 @@ render(){
 
 # SCREENSHOTS
 
-![Web](./screenshot/test1.jpg)
-![Mobile](./screenshot/test2.jpg)
-![Mobile](./screenshot/test3.jpg)
-![Mobile](./screenshot/test4.jpg)
+![Web](./screenshots/test1.jpg)
+![Mobile](./screenshots/test2.jpg)
+![Mobile](./screenshots/test3.jpg)
+![Mobile](./screenshots/test4.jpg)
